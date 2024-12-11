@@ -78,3 +78,7 @@ footer a:hover {
 footer a:active {
     color: brown;
 }
+
+.address {
+    margin-bottom: 5px;
+}
